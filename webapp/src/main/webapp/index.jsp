@@ -1,3 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1 style="text-align: center;"><strong>Hello All, Welcome to Simple Devops Project</strong></h1>
+
+<h1 style="text-align: center;"><strong>We are Deploying simple WAR File</strong></h1>
+
+<h1 style="text-align: center;"><strong>Glad To See You Here</strong></h1>
